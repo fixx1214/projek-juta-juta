@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BIODATA DIRI SAYA</title>
+</head>
+<body>
+
+
+<h1>BIODATA DIRI SAYA</h1>
+<p>NAMA:MUHAMAD AFIQ AIZAT BIN MOHD ROSDI</p>
+UMUR:18 TAHUN
+<p>HOBI: BERMAIN BADMINTON PADA WAKTU PETANG<p/>
+<p>MAKANAN KEGEMARAN:NASI AYAM</p>
+<p>PENCAPAIAN:DILANTIK SEBAGAI DUTA SAHSIAH SMK KUALA BALAH PADA TAHUN 2024 DAN PERNAH DIPILIH UNTUK MEWAKILI DAERAH JELI DALAM PERLAWANAN RAGBI PERINGKAT NEGERI DAN BERJAYA MEMPEROLEH JOHAN PLATE</p>
+SAYA RASA ITU SAHAJA DARIPADA SAYA. SAYA HARAP KITA DAPAT BERJUMPA LAGI DI LAIN HARI ASSALAMUALAIKUM
+
+
+<a href="www.youtube.com">jumpa lagi.....</a>
+
+
+<img src=https://www.bing.com/images/search?view=detailV2&ccid=9NHnIpfm&id=3BCEB459C87C31D491669676D2362D5AEB447035&thid=OIP.9NHnIpfm9rHRTVlDULTmzAHaF7&mediaurl=https%3A%2F%2Fimages.wallpapersden.com%2Fimage%2Fdownload%2Fone-piece-hd-luffy-cool-art_bWhmZWWUmZqaraWkpJRmZ21lrWZlZ2k.jpg&exph=1024&expw=1280&q=ONE+PIECE&simid=607989356645154649&FORM=IRPRST&ck=9A31C049F424825B47F5985372EA3EC9&selectedIndex=22&itb=0&cw=1661&ch=852&ajaxhist=0&ajaxserp=0>
+
+
+<h2>lampu dapat dihidupkan ataupun tak?</h2>
+
+
+<p>mari kita singkapkan.</p>
+
+
+<p>dalam kes ini kita akan cuba menghidupkan lampu menggunakan sistem butang berkonsepkan javascript.</p>
+
+
+<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Buka lampu</button>
+
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Tutup lampu</button>
+</body>
+</html>
+
+
+
+
+
+
+
